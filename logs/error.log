@@ -1,0 +1,4 @@
+{"level":"error","message":"Time: 2024-03-30 16:24:46 Invalid num1!","service":"calculator-microservice"}
+{"level":"error","message":{"msg":"Error: Invalid num1!","statusCode":500},"service":"calculator-microservice"}
+{"level":"error","message":"Time: 2024-03-30 16:24:51 Invalid num2!","service":"calculator-microservice"}
+{"level":"error","message":{"msg":"Error: Invalid num2!","statusCode":500},"service":"calculator-microservice"}

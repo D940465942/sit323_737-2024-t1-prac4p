@@ -1,0 +1,9 @@
+{"level":"info","message":"Time: 2024-03-30 16:24:11 Multiplication: 1 * 2 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Time: 2024-03-30 16:24:17 Addition: 1 + 2 = 3","service":"calculator-microservice"}
+{"level":"info","message":"Time: 2024-03-30 16:24:23 Subtraction: 1 - 2 = -1","service":"calculator-microservice"}
+{"level":"info","message":"Time: 2024-03-30 16:24:29 Multiplication: 1 * 2 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Time: 2024-03-30 16:24:41 Division: 1 / 2 = 0.5","service":"calculator-microservice"}
+{"level":"error","message":"Time: 2024-03-30 16:24:46 Invalid num1!","service":"calculator-microservice"}
+{"level":"error","message":{"msg":"Error: Invalid num1!","statusCode":500},"service":"calculator-microservice"}
+{"level":"error","message":"Time: 2024-03-30 16:24:51 Invalid num2!","service":"calculator-microservice"}
+{"level":"error","message":{"msg":"Error: Invalid num2!","statusCode":500},"service":"calculator-microservice"}
